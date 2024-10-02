@@ -1,6 +1,12 @@
+import NavBar from "./components/navbar";
+import './global.css';
+
 const Page = () => {
   return(
-    <h1>Welcome to Home Page</h1>
+    <div>
+      <NavBar />
+      <h1>Welcome to Home Page</h1>
+    </div>
   );
 };
 

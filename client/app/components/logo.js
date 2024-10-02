@@ -1,7 +1,7 @@
 const Logo = () => {
   return (
     <div>
-
+      LoBu
     </div>
   )
 }

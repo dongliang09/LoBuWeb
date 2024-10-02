@@ -1,0 +1,21 @@
+.aboutContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px 40px;
+}
+
+.aboutTitleCenter {
+  text-align: center;
+}
+
+.teamMemberContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.teamMember {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
